@@ -5,5 +5,4 @@ An educational iPad app teaching some fundamental rules of typography in a fun a
 ![App screenshot](ressources/screenshot.png)
 
 ## Installation 👨🏼‍💻
-Download the Typography - WWDC22.swiftpm folder to your iPad and open it with the Swift Playgrounds 4 App. Then simply hit the run icon and the app launches.
-
+Download the *Typography - WWDC22.swiftpm* folder to your iPad and open it with the Swift Playgrounds 4 app.
