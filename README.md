@@ -11,4 +11,6 @@ The app is diveded into three areas: a navigation bar (left), a content view for
 Download the *Typography - WWDC22.swiftpm* folder to your iPad and open it with the Swift Playgrounds 4 app.
 
 ## Whats next?
-As of right now, the app contains a welcome page, three lessons and a final quiz to fit the three-minute time frame for the challenge. I am planning to add a few more lessons (for example about spacing and alignment) in the weeks to come and then publish the app on the app store to help more people make good use of typography. If you'd be interested to join a Beta of the app, send me a [message](https://twitter.com/henricreates).
+As of right now, the app contains a welcome page, three lessons and a final quiz to fit the three-minute time frame for the challenge. I am planning to add a few more lessons (for example about spacing and alignment) in the weeks to come and then publish the app on the app store to help more people make good use of typography
+
+> [Join the TestFlight Beta](https://testflight.apple.com/join/AoSNrCk2)
