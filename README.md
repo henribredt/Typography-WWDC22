@@ -8,7 +8,7 @@ An educational iPad app teaching some fundamental rules of typography in a fun a
 The app is diveded into three areas: a navigation bar (left), a content view for explaining the concepts (center) and a playground view, where the user can apply what he has learned in an interactive view (right). Every lesson challenges the user to accomplish a task in the playground view in order to progress through the course.
 
 ### Demo video 
-[![YoutTube video showing the app](https://img.youtube.com/vi/AiK6CGgM71w/0.jpg))](https://www.youtube.com/watch?v=AiK6CGgM71w)
+[Watch on YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)
 
 ### Installation
 Download the *Typography - WWDC22.swiftpm* folder to your iPad and open it with the Swift Playgrounds 4 app. Alternatively you can [join the TestFlight Beta](https://testflight.apple.com/join/AoSNrCk2) to receive all future changes as I continue to develop this app further.
