@@ -1,5 +1,5 @@
 # WWDC22 Swift Student Challenge Submission
-### A Swift Student Challenge Winner 2021 🎉
+### A Swift Student Challenge Winner 2022 🎉
 
 An educational iPad app teaching some fundamental rules of typography in a fun and interactive way. Created as a submission to the 2022 Apple Swift Student Challenge by Henri Bredt in April 2022.
 
