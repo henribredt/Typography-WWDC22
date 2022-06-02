@@ -3,7 +3,7 @@
 
 An educational iPad app teaching some fundamental rules of typography in a fun and interactive way. Created as a submission to the 2022 Apple Swift Student Challenge by Henri Bredt in April 2022.
 
-#### Get the app for free on the [App Store](https://apps.apple.com/app/id1620952845?l=en)
+#### Get the app for free on the [App Store](https://apps.apple.com/app/id1620952845?l=en)!
 
 | ![App screenshot](ressources/screenshot.png) | ![App screenshot](ressources/screenshot-2.png) |
 --- | ---
