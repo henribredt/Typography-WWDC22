@@ -19,5 +19,5 @@ Download Typoversity on the [App Store](https://apps.apple.com/app/id1620952845?
 ### What's next?
 As of right now, the app contains a welcome page, three lessons and a final quiz to fit the three-minute time frame for the challenge. I am planning to add a few more lessons (for example about spacing and alignment) in the weeks to come and then publish the app on the app store to help more people make good use of typography.
 #### UPDATE: Done ✅
-
+---
 All further development will take place in this [repository](https://github.com/henribredt/Typoversity).
