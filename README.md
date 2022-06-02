@@ -6,19 +6,19 @@ An educational iPad app teaching some fundamental rules of typography in a fun a
 | ![App screenshot](ressources/screenshot.png) | ![App screenshot](ressources/screenshot-2.png) |
 --- | ---
 
-The app is diveded into three areas: a navigation bar (left), a content view for explaining the concepts (center) and a playground view, where the user can apply what he has learned in an interactive view (right). Every lesson challenges the user to accomplish a task in the playground view in order to progress through the course.
+The app is divided into three areas: a navigation bar (left), a content view for explaining the concepts (center) and a playground view, where the user can apply what he has learned in an interactive view (right). Every lesson challenges the user to accomplish a task in the playground view in order to progress through the course.
 
-### Get the app on the [App Store]([https://testflight.apple.com/join/AoSNrCk2](https://apps.apple.com/app/id1620952845?l=en))
+### Get the app on the [App Store](https://apps.apple.com/app/id1620952845?l=en)
 
 
 ### Demo video 
 [Watch on YouTube](https://www.youtube.com/watch?v=AiK6CGgM71w)
 
 ### Installation
-Download Typoversity on the [App Store]([https://testflight.apple.com/join/AoSNrCk2](https://apps.apple.com/app/id1620952845?l=en)). Alternatively you can download the originally submiited Playground app in this repository and open it with Swift Playgrounds 4 on the iPad.  
+Download Typoversity on the [App Store](https://apps.apple.com/app/id1620952845?l=en). Alternatively, you can download the originally submitted Playground app in this repository and open it with Swift Playgrounds 4 on the iPad.  
 
-### Whats next?
-#### UPADE: Done ✅
+### What's next?
+#### UPDATE: Done ✅
 As of right now, the app contains a welcome page, three lessons and a final quiz to fit the three-minute time frame for the challenge. I am planning to add a few more lessons (for example about spacing and alignment) in the weeks to come and then publish the app on the app store to help more people make good use of typography. 
 
 All further development will take place in this [repository](https://github.com/henribredt/Typoversity).
